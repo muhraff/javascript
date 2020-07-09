@@ -1,4 +1,5 @@
-# js
+# Javascript examples and snippets
+
 
 
 ## Get Video Thumbnail ID form Vimeo video page
